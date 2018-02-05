@@ -1,0 +1,1 @@
+This project was using code to grab JSON data and displaying it on a webpage in a table.
